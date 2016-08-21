@@ -1,0 +1,25 @@
+tr:
+  datetime:
+    dotiw:
+      seconds:
+        one: 1 saniye
+        other: "%{count} saniye"
+      minutes:
+        one: 1 dakika
+        other: "%{count} dakika"
+      hours:
+        one: 1 saat
+        other: "%{count} saat"
+      days:
+        one: 1 gün
+        other: "%{count} gün"
+      weeks:
+        one: 1 hafta
+        other: "%{count} hafta"
+      months:
+        one: 1 ay
+        other: "%{count} ay"
+      years:
+        one: 1 yıl
+        other: "%{count} yıl"
+      less_than_x: "en az %{distance}"
